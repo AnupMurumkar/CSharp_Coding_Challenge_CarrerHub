@@ -16,7 +16,8 @@ public class CareerHubService
         
         jobListings.Clear();
         companies.Clear();
-        applicants.Clear();
+        applicants.Clear();     
+        //adsddsvsvdvsvd
         jobApplications.Clear();
         Console.WriteLine("Database initialized successfully.");
     }
